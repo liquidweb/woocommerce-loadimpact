@@ -1,6 +1,6 @@
 # Load Impact Tests for WooCommerce
 
-Scenarios for `loadimpact.com`, written against Liquid Web's WooCommerce sample data.
+Scenarios for `loadimpact.com`, written against Liquid Web's [WooCommerce sample data](https://goo.gl/vVB1e9).
 
 ## Logged Out Scenarios
 
